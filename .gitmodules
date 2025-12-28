@@ -1,9 +1,92 @@
-[submodule "neues"]
-	path = neues
-	url = git@github.com:alexplusde/neues.git
-[submodule "events"]
-	path = events
+[submodule "src/addons/auto_delete"]
+	path = src/addons/auto_delete
+	url = git@github.com:alexplusde/auto_delete.git
+	branch = main
+[submodule "src/addons/erecht24"]
+	path = src/addons/erecht24
+	url = git@github.com:alexplusde/erecht24.git
+	branch = main
+[submodule "src/addons/events"]
+	path = src/addons/events
 	url = git@github.com:alexplusde/events.git
-[submodule "maintenance"]
-	path = maintenance
+	branch = main
+[submodule "src/addons/googleplaces"]
+	path = src/addons/googleplaces
+	url = git@github.com:alexplusde/googleplaces.git
+	branch = main
+[submodule "src/addons/inbox"]
+	path = src/addons/inbox
+	url = git@github.com:alexplusde/inbox.git
+	branch = main
+[submodule "src/addons/mailer_profile"]
+	path = src/addons/mailer_profile
+	url = git@github.com:alexplusde/mailer_profile.git
+	branch = main
+[submodule "src/addons/maintenance"]
+	path = src/addons/maintenance
 	url = git@github.com:alexplusde/maintenance.git
+	branch = main
+[submodule "src/addons/media_manager_responsive"]
+	path = src/addons/media_manager_responsive
+	url = git@github.com:alexplusde/media_manager_responsive.git
+	branch = main
+[submodule "src/addons/milestone"]
+	path = src/addons/milestone
+	url = git@github.com:alexplusde/milestone.git
+	branch = main
+[submodule "src/addons/neues"]
+	path = src/addons/neues
+	url = git@github.com:alexplusde/neues.git
+	branch = main
+[submodule "src/addons/qanda"]
+	path = src/addons/qanda
+	url = git@github.com:alexplusde/qanda.git
+	branch = main
+[submodule "src/addons/redactor"]
+	path = src/addons/redactor
+	url = git@github.com:alexplusde/redactor.git
+	branch = main
+[submodule "src/addons/speed_up"]
+	path = src/addons/speed_up
+	url = git@github.com:alexplusde/speed_up.git
+	branch = main
+[submodule "src/addons/staff"]
+	path = src/addons/staff
+	url = git@github.com:alexplusde/staff.git
+	branch = main
+[submodule "src/addons/stellenangebote"]
+	path = src/addons/stellenangebote
+	url = git@github.com:alexplusde/stellenangebote.git
+	branch = main
+[submodule "src/addons/thumb"]
+	path = src/addons/thumb
+	url = git@github.com:alexplusde/thumb.git
+	branch = main
+[submodule "src/addons/tracks"]
+	path = src/addons/tracks
+	url = git@github.com:alexplusde/tracks.git
+	branch = main
+[submodule "src/addons/wenns_sein_muss"]
+	path = src/addons/wenns_sein_muss
+	url = git@github.com:alexplusde/wenns_sein_muss.git
+	branch = main
+[submodule "src/addons/ycom_fast_forward"]
+	path = src/addons/ycom_fast_forward
+	url = git@github.com:alexplusde/ycom_fast_forward.git
+	branch = main
+[submodule "src/addons/ydeploy_export"]
+	path = src/addons/ydeploy_export
+	url = git@github.com:alexplusde/ydeploy_export.git
+	branch = main
+[submodule "src/addons/yform_field"]
+	path = src/addons/yform_field
+	url = git@github.com:alexplusde/yform_field.git
+	branch = main
+[submodule "src/addons/ymca"]
+	path = src/addons/ymca
+	url = git@github.com:alexplusde/ymca.git
+	branch = main
+[submodule "src/addons/yrewrite_metainfo"]
+	path = src/addons/yrewrite_metainfo
+	url = git@github.com:alexplusde/yrewrite_metainfo.git
+	branch = main
