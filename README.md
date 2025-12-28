@@ -70,4 +70,4 @@ Falls du noch keine SSH-Keys für GitHub eingerichtet hast:
 
 ## Technische Details
 
-Die Konfiguration der Submodules findest du in der Datei `.gitmodules`. Die eigentlichen Submodule-Ordner sind über `.gitignore` ausgeschlossen, sodass nur die Verweise im Repository gespeichert werden.
+Die Konfiguration der Submodules findest du in der Datei `.gitmodules`. Git speichert in diesem Repository nur die Verweise (Commits) auf die Submodules, nicht deren Inhalte.
